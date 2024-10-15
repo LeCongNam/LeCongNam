@@ -1,4 +1,4 @@
-![👋 Hi, my name is Le Cong Nam](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![👋 Hi, my name is Le Cong Nam](./github-header-image.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=https://github.com/LeCongNam&label=Profile%20views&color=0e75b6&style=flat)
 
